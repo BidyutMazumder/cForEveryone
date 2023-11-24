@@ -69,6 +69,7 @@ int main()
     */
     //abcd
     //0123
+
     char string[100];
     gets(string);
     //getch();
