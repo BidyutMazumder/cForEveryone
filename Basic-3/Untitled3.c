@@ -1,13 +1,9 @@
 #include<stdio.h>
 int main()
 {
-    int a, b, result;
-    a = 10;
-    b = 25;
+    char input;
+    scanf("%c", &input);
 
-    result = b % a;
-
-    printf("%d", result);
-
+    printf("%d\n", input);
     return 0;
 }
